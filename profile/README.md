@@ -12,12 +12,12 @@ I find it, tell you which of the dozens of findings actually matter, and take th
 
 ## What I do
 
-| Service | What it is | From |
-|---|---|---|
-| **Technical SEO Monitoring** | Opens with the full audit, then stays on: robots.txt, sitemaps and uptime checked every few minutes; indexation and Core Web Vitals as the data lands. Monthly call, shared Slack channel for your engineers. | $1,750/mo |
-| **Technical SEO Audit** | A full crawl, render and log-file pass. Dozens of findings, each naming the exact place it lives and the fix — ordered by what it earns back. | $2,250 |
-| **Website Migration Planning** | Replatform without losing traffic: redirect mapping, parity testing and a launch checklist owned end to end. | $4,000 |
-| **Technical SEO Training** | A day with your SEO specialists and your developers in one room, worked through on your own stack. | $1,150/day |
+| Service | What it is |
+|---|---|
+| **Technical SEO Monitoring** | Opens with the full audit, then stays on: robots.txt, sitemaps and uptime checked every few minutes; indexation and Core Web Vitals as the data lands. Monthly call, shared Slack channel for your engineers. |
+| **Technical SEO Audit** | A full crawl, render and log-file pass. Dozens of findings, each naming the exact place it lives and the fix — ordered by what it earns back. |
+| **Website Migration Planning** | Replatform without losing traffic: redirect mapping, parity testing and a launch checklist owned end to end. |
+| **Technical SEO Training** | A day with your SEO specialists and your developers in one room, worked through on your own stack. |
 
 Every engagement includes a prioritised ticket backlog, a walkthrough with your developers, direct access to me rather than an account manager, and post-launch verification.
 
