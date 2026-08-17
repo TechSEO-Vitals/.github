@@ -51,8 +51,6 @@ I build and run [VitalSentinel](https://www.vitalsentinel.com), my own monitorin
 
 ## Free stuff
 
-- [Technical SEO checklist](https://www.techseovitals.com/technical-seo-checklist/)
-- [Website migration checklist](https://www.techseovitals.com/website-migration-checklist/)
 - [Newsletter](https://www.techseovitals.com/newsletter/) — every two weeks: one technical SEO problem taken apart in full, a clear position on what to do about it, and three things worth reading from the last fortnight
 - [Blog](https://www.techseovitals.com/blog/) — short posts out of client work
 
